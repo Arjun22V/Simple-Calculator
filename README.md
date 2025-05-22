@@ -5,13 +5,13 @@ A responsive, functional calculator built using **HTML**, **CSS**, and **JavaScr
 This project was completed as **Task 1** of the Web Development Internship at **InternPE**.
 
 ## 🚀 Live Demo
-[Add Your GitHub Pages or Netlify Link Here]
+Linkedin : https://www.linkedin.com/posts/gosipetala-laxmi-narsimha-swamy-b965a8363_internpe-task1-webdevelopment-activity-7331384617331036160-E6Yp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpSkqIB3iFJKlqEIQGBoplKfNNweeJVYFM
 
 ## 📁 Project Files
 
 - `index.html` – The structure of the calculator.
 - `style.css` – Styling and layout.
-- `script.js` – Logic for performing calculations.
+- 'javaScript.js - created inside the HTML
 
 ## ✨ Features
 
